@@ -1,0 +1,5 @@
+payload:
+  # > Emby
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,embyx.one
+  - DOMAIN-SUFFIX,nebula-emby.com
