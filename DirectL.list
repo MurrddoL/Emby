@@ -3,3 +3,18 @@ DOMAIN-SUFFIX,micu.hk,direct
 DOMAIN-SUFFIX,freetv.top,direct
 DOMAIN-SUFFIX,ipip.net,direct
 DOMAIN-SUFFIX,l.murrddol.com,direct
+
+# 以下规则需要国内直连
+## TPTV
+DOMAIN-SUFFIX,mobaibox.com,DIRECT
+IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
+
+## YSP
+DOMAIN-SUFFIX,cctv.cn,DIRECT
+DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+
+## ITV
+DOMAIN-SUFFIX,dnsany.com,DIRECT
+DOMAIN-SUFFIX,cmvideo.cn,DIRECT
+DOMAIN-SUFFIX,chinamobile.com,DIRECT
+
