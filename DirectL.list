@@ -2,7 +2,8 @@
 DOMAIN-SUFFIX,micu.hk,direct
 DOMAIN-SUFFIX,freetv.top,direct
 DOMAIN-SUFFIX,ipip.net,direct
-DOMAIN-SUFFIX,l.murrddol.com,direct
+DOMAIN-SUFFIX,murrddol.com,direct
+DOMAIN-SUFFIX,sharon.io,direct
 
 # 以下规则需要国内直连
 ## TPTV
