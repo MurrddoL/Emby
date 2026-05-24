@@ -1,0 +1,47 @@
+payload:
+  # ==================== ResourceSite ====================
+
+  # 玩偶哥哥
+  - DOMAIN-KEYWORD,wogg,ResourceSite
+
+  # 木偶
+  - DOMAIN,666.666291.xyz,ResourceSite
+  - DOMAIN,www.muou.asia,ResourceSite
+  - DOMAIN,www.muou.site,ResourceSite
+
+  # 蜡笔
+  - DOMAIN,fmao.shop,ResourceSite
+
+  # 至臻
+  - DOMAIN,www.miqk.cc,ResourceSite
+  - DOMAIN,xiaomi666.fun,ResourceSite
+  - DOMAIN-SUFFIX,mihdr.top,ResourceSite
+
+  # 多多
+  - DOMAIN,tv.214521.xyz,ResourceSite
+  - DOMAIN,duo.hidns.vip,ResourceSite
+  - DOMAIN-KEYWORD,yydsys,ResourceSite
+
+  # 二小
+  - DOMAIN,zhizhen1.top,ResourceSite
+  - DOMAIN-KEYWORD,erxiaopan,ResourceSite
+  - DOMAIN-KEYWORD,erixaopan,ResourceSite
+  - DOMAIN-KEYWORD,erxiaozhan,ResourceSite
+  - DOMAIN-KEYWORD,2xiaozhan,ResourceSite
+  - DOMAIN-KEYWORD,2xiaopan,ResourceSite
+  - DOMAIN-KEYWORD,wexwp,ResourceSite
+
+  # 虎斑
+  - DOMAIN,xhban.xyz,ResourceSite
+  - IP-CIDR,154.222.27.33/32,ResourceSite
+  - IP-CIDR,103.45.162.207/32,ResourceSite
+
+  # 小斑
+  - DOMAIN,xsayang.fun,ResourceSite
+  - IP-CIDR,154.201.83.50/32,ResourceSite
+
+  # 欧歌
+  - DOMAIN,woog.nxog.eu.org,ResourceSite
+
+  # 闪电
+  - DOMAIN,sd.sduc.site,ResourceSite
