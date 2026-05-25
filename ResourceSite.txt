@@ -11,6 +11,7 @@ payload:
 
   # 蜡笔
   - 'fmao.shop'
+  - 'xiaocgege.shop'
 
   # 至臻
   - 'www.miqk.cc'
