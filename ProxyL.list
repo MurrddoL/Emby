@@ -1,5 +1,5 @@
 # > ProxyL
-DOMAIN-SUFFIX,emby.wtf,proxy
+# DOMAIN-SUFFIX,emby.wtf,proxy
 DOMAIN-SUFFIX,embyx.one,proxy
 DOMAIN-SUFFIX,nebula-emby.com,proxy
 DOMAIN-SUFFIX,misakaf.org,proxy
